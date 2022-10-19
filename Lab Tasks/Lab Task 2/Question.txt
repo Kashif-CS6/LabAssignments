@@ -1,5 +1,1 @@
-SP20-BCS-004 M Kashif Nabeel Task 2 MAD
-Question: Display the record of 10 students in a list.
-Answer:
-There are two JavaScript files are given First one 'App.js' for calling StudentRecord function 
-and second is component file 'StudentRecord.js' 
+jj
